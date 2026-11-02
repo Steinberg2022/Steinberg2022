@@ -65,11 +65,6 @@ public class Developer {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=steinberg2022&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=C9D1D9" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steinberg2022&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=C9D1D9" />
-
-<br><br>
 
 <img width="75%" src="https://streak-stats.demolab.com?user=steinberg2022&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" />
 
